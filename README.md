@@ -17,7 +17,7 @@ Calcular la prima que le corresponde a uno o varios empleados en funcion de si e
 El [repositorio](https://github.com/jns34832/daweb.git) contiene:
 - Carpeta *Primas* donde se encuentra la aplicación
 - Archivo *Tarea unidad8.pdf* que contiene el enlace a este repositorio y webgrafia
-- Archivo con imagen de muestra de la documentación generada con Javadoc
+- Archivo con imagen de muestra de la documentación generada con [Javadoc](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html)  
 ![Ejemplo de documentacion con Javadoc](https://github.com/jns34832/daweb/blob/main/Ejemplo%20documentacion%20Javadoc.PNG)
 
 ## Finalidad del repositorio
